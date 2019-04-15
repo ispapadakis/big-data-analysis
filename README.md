@@ -1,10 +1,12 @@
 # big-data-analysis
 
 ---
+
 Examples of Data Analysis Using Big-Data Methods
+
 ---
 
-## Example I: [Analysis of Financial Option Data using a Jupyter Notebook]()
+## Example I: [Analysis of Financial Option Data using a Jupyter Notebook](Call_Put_Options.ipynb)
 
 Contains:
 
@@ -12,9 +14,8 @@ Contains:
 
 - Pandas code that can be applied to much bigger datasets as well
 
-- Effcient merging of Pandas data frames
+- Efficient merging of Pandas data frames
 
-- Consice (Pythonic) ways to create new variables
+- Concise (Pythonic) ways to create new variables
 
 - Hassle-free plotting and data presentation using (mostly) default Pandas commands and settings
-
