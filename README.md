@@ -19,3 +19,20 @@ Contains:
 - Concise (Pythonic) ways to create new variables
 
 - Hassle-free plotting and data presentation using (mostly) default Pandas commands and settings
+
+
+## Example II: Credit Risk Data Analysis
+
+- Part A / [Exploratory Data Analysis](https://www.kaggle.com/yanpapadakis/credit-default-risk-data-eda)
+
+- Part B / [Probability of Default Model](https://www.kaggle.com/yanpapadakis/credit-risk-model-v1)
+
+Contains:
+
+- Systematic way to do Exploratory Data Analysis
+
+  - Missingness Correlation Matrix
+  - Graphical One-Way Effect Analysis using Single Variable Decision Trees
+
+- Probability of Default Model using Gradient Boosting Trees (LightGBM)
+
