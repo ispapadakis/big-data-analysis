@@ -45,3 +45,9 @@ Various Approaches To Developing Big Data Models
 ## Develop Model Using Google Colaboratory
 
 [First Step: Make Data Available to Google Colab](https://colab.research.google.com/drive/1RKDJ1vExCuYryezShCmfEGk_90CMZOLy?usp=sharing)
+
+---
+
+## Obtain Data from US Census
+
+[Unemployment v Educational Attainment](USCensusStudy.ipynb)
